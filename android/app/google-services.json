@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "624281615462",
+    "firebase_url": "https://vege-line.firebaseio.com",
+    "project_id": "vege-line",
+    "storage_bucket": "vege-line.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624281615462:android:3bfabddcec92bea7b601a7",
+        "android_client_info": {
+          "package_name": "com.tkx.vege_line"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624281615462-pvo1gsmo3k2c1sap5fs3uu2p3bkmalif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDWRS9lW--UtaqTBiSllJQKiMGugycyz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624281615462-pvo1gsmo3k2c1sap5fs3uu2p3bkmalif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624281615462:android:24cace9fda257badb601a7",
+        "android_client_info": {
+          "package_name": "com.tkx.vege_line_vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624281615462-pvo1gsmo3k2c1sap5fs3uu2p3bkmalif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDWRS9lW--UtaqTBiSllJQKiMGugycyz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624281615462-pvo1gsmo3k2c1sap5fs3uu2p3bkmalif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624281615462:android:840c1d96a9dd5fb9b601a7",
+        "android_client_info": {
+          "package_name": "com.tkx.vegeline_vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624281615462-pvo1gsmo3k2c1sap5fs3uu2p3bkmalif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDWRS9lW--UtaqTBiSllJQKiMGugycyz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624281615462-pvo1gsmo3k2c1sap5fs3uu2p3bkmalif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

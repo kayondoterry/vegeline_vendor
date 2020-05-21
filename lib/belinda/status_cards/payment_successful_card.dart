@@ -1,0 +1,38 @@
+import 'package:flutter/material.dart';
+import 'package:vegeline_vendor/models/order.dart';
+import 'package:vegeline_vendor/shared/constants.dart';
+
+class PaymentSuccessfulCard extends StatelessWidget {
+  final Order order;
+  final bool isCardEnabled;
+
+  const PaymentSuccessfulCard({Key key, this.order, this.isCardEnabled}) : super(key: key);
+  @override
+  Widget build(BuildContext context) {
+    return Card(
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.stretch,
+        children: <Widget>[
+          Container(
+            padding: const EdgeInsets.all(8.0),
+            color: Colors.grey[600],
+            child: Text(
+              'PAYMENT SUCCESSFUL',
+              textAlign: TextAlign.center,
+              style: TextStyle(color: Colors.grey[200]),
+            ),
+          ),
+          Padding(
+            padding: const EdgeInsets.all(16.0),
+            child: Text(
+              '$MESSAGE_PAYMENT_SUCCESSFUL',
+              style: TextStyle(
+                fontSize: 16.0,
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
